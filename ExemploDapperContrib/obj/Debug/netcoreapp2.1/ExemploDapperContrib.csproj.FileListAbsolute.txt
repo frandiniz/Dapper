@@ -1,0 +1,14 @@
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\bin\Debug\netcoreapp2.1\ExemploDapperContrib.deps.json
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\bin\Debug\netcoreapp2.1\ExemploDapperContrib.runtimeconfig.json
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\bin\Debug\netcoreapp2.1\ExemploDapperContrib.runtimeconfig.dev.json
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\bin\Debug\netcoreapp2.1\ExemploDapperContrib.dll
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\bin\Debug\netcoreapp2.1\ExemploDapperContrib.pdb
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.csprojAssemblyReference.cache
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.csproj.CoreCompileInputs.cache
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.RazorAssemblyInfo.cache
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.RazorAssemblyInfo.cs
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.AssemblyInfoInputs.cache
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.AssemblyInfo.cs
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.RazorTargetAssemblyInfo.cache
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.dll
+C:\Users\francielle.queiroz\Desktop\Dapper-DotNetCore2.1-master\Dapper_DotNetCore2-1\ExemploDapperContrib\obj\Debug\netcoreapp2.1\ExemploDapperContrib.pdb
